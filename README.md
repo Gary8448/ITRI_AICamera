@@ -1,6 +1,6 @@
 # ITRI_AICamera
 ## Abstract
-There has 
+This project's theme is Smart camera movement by Artificial intelligence. And it's from Taiwan Industrial Technology Research Institute (ITRI) - Information and Communication Research Institute (ICL) 5g+ system and application quenching project. Our Target ....
 
 
 # FairMOT
